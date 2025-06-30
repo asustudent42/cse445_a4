@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <!-- Sample from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- 10 real Arizona hotels -->
+  <Hotel Rating="4.5">
+    <Name>Arizona Grand Resort</Name>
+    <Phone>480-719-0000</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>8000</Number>
+      <Street>S Arizona Grand Pkwy</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85252</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Hyatt Regency Phoenix</Name>
+    <Phone>602-252-1234</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>122 N 2nd St</Number>
+      <Street>North 2nd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>The Phoenician</Name>
+    <Phone>480-941-8200</Phone>
+    <Phone>800-564-6839</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>6000</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>JW Marriott Scottsdale Camelback Inn</Name>
+    <Phone>480-948-1700</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>5402</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Omni Scottsdale Resort & Spa at Montelucia</Name>
+    <Phone>480-627-3200</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>4949</Number>
+      <Street>E Lincoln Dr</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Sheraton Grand Phoenix</Name>
+    <Phone>602-262-2500</Phone>
+    <Address>
+      <Number>340</Number>
+      <Street>N 3rd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
+    <Phone>602-866-7500</Phone>
+    <Address>
+      <Number>11111</Number>
+      <Street>N Tatum Blvd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85028</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Kimpton Hotel Palomar Phoenix</Name>
+    <Phone>602-253-6633</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>2</Number>
+      <Street>E Jefferson St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Royal Palms Resort and Spa</Name>
+    <Phone>800-888-7299</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>5200</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
+    <Phone>602-955-6600</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>2400</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
