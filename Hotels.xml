@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <!-- Sample from Figure 1 -->
+  <!-- Figure 1 sample -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -64,8 +64,8 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.4">
-    <Name>Omni Scottsdale Resort & Spa at Montelucia</Name>
+<Hotel Rating="4.4">
+    <Name>Omni Scottsdale Resort &amp; Spa at Montelucia</Name>
     <Phone>480-627-3200</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>4949</Number>
