@@ -13,7 +13,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  
+
   <!-- 10 real Arizona hotels -->
   <Hotel Rating="4.5">
     <Name>Arizona Grand Resort</Name>
@@ -26,7 +26,6 @@
       <Zip>85252</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.2">
     <Name>Hyatt Regency Phoenix</Name>
     <Phone>602-252-1234</Phone>
@@ -38,7 +37,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.7">
     <Name>The Phoenician</Name>
     <Phone>480-941-8200</Phone>
@@ -51,7 +49,6 @@
       <Zip>85251</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.6">
     <Name>JW Marriott Scottsdale Camelback Inn</Name>
     <Phone>480-948-1700</Phone>
@@ -63,7 +60,6 @@
       <Zip>85253</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.4">
     <Name>Omni Scottsdale Resort &amp; Spa at Montelucia</Name>
     <Phone>480-627-3200</Phone>
@@ -75,7 +71,6 @@
       <Zip>85253</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.3">
     <Name>Sheraton Grand Phoenix</Name>
     <Phone>602-262-2500</Phone>
@@ -88,7 +83,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.2">
     <Name>Hilton Phoenix Tapatio Cliffs Resort</Name>
     <Phone>602-866-7500</Phone>
@@ -100,7 +94,6 @@
       <Zip>85028</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.5">
     <Name>Kimpton Hotel Palomar Phoenix</Name>
     <Phone>602-253-6633</Phone>
@@ -112,7 +105,6 @@
       <Zip>85004</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.6">
     <Name>Royal Palms Resort and Spa</Name>
     <Phone>800-888-7299</Phone>
@@ -124,7 +116,6 @@
       <Zip>85018</Zip>
     </Address>
   </Hotel>
-
   <Hotel Rating="4.7">
     <Name>Arizona Biltmore, A Waldorf Astoria Resort</Name>
     <Phone>602-955-6600</Phone>
