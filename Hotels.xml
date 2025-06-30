@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <!-- Figure 1 sample -->
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,7 +13,6 @@
     </Address>
   </Hotel>
 
-  <!-- 10 real Arizona hotels -->
   <Hotel Rating="4.5">
     <Name>Arizona Grand Resort</Name>
     <Phone>480-719-0000</Phone>
